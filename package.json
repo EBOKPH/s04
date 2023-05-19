@@ -1,0 +1,15 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "JSON activity 2",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kobe D. Estabalaya",
+  "license": "ISC"
+}
+
+
+
